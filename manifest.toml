@@ -12,10 +12,8 @@ version = "1.0~ynh1"
 maintainers = [""]
 
 [upstream]
-license = "free" # you can see the available licenses identifiers list here: https://spdx.org/licenses/
-website = "https://example.com"
-demo = "https://demo.example.com"
-code = "https://some.forge.com/example/example"
+license = "free"
+code = "https://git.ericandmarie.fr/eric/goweb/"
 
 [integration]
 yunohost = ">= 11.2.30"
