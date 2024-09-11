@@ -45,7 +45,7 @@ ram.runtime = "50M"
 
     [resources.sources.main]
     url = "https://git.ericandmarie.fr/eric/goweb/-/archive/0.1/goweb-0.1.tar.gz"
-    sha256 = "f4ab91b5a8677de47f7e7510155407f35b92d33003cc04526c6ae17c84245a35"
+    sha256 = "b523ab4b366347125d3177dc8a88bcdc18606a9f565885ea4ef99c4370ca7043"
 
     [resources.system_user]
 
