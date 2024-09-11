@@ -28,7 +28,6 @@ systemctl enable "$app.service" --quiet
 
 yunohost service add "$app" --description="A short description of the app" --log="/var/log/$app/$app.log"
 
-
 #=================================================
 # RELOAD NGINX AND PHP-FPM OR THE APP SERVICE
 #=================================================
